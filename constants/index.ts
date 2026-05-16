@@ -298,20 +298,20 @@ export const projectData = [
     link: "https://nautilustimes.com",
   },
   {
-    name: "Company Website | Oceaniek Technologies",
+    name: "Company Website | CN Technologies",
     description:
-      "Developed a modern, responsive company website for Oceaniek Technologies using Next.js.",
+      "Developed a modern, responsive company website for CN Technologies using Next.js.",
     skills: ["Frontend", "Animation", "Responsive Design"],
     tech: ["Next.js", "Canvas", "Shadcn"],
-    link: "https://oceaniektechnologies.com",
+    link: "https://CNtechnologies.com",
   },
   {
-    name: "OTT Platform | Oceaniek Stream",
+    name: "OTT Platform | CN Stream",
     description:
       "Developed an OTT streaming platform featuring movies, series, and exclusive content, optimized for mobile and TV.",
     skills: ["Full Stack", "Integrations", "Payments"],
     tech: ["Next.js", "PostgreSQL", "Razorpay"],
-    link: "https://oceaniekstream.com",
+    link: "https://CNstream.com",
   },
   {
     name: "Medical Tourism Facilitator | The Healing Groove",
